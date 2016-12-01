@@ -1,0 +1,5 @@
+---
+applications:
+- name:    bluemix-demo-helen
+  host:    bluemix-demo-helen
+  memory:  128M
